@@ -1,0 +1,9 @@
+orange
+orange tomato
+orange apple
+orange lettuce
+tomato peach
+lettuce pumpkin
+lettuce carrot
+
+
